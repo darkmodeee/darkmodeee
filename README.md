@@ -24,3 +24,9 @@ npm run test:unit
 ```
 npm run lint
 ```
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2020 - present, Dark Mode
