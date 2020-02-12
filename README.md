@@ -1,32 +1,32 @@
-# DarkMode
+# DarkMode ~ Web App
 
-## Project setup
+### PROJECT SETUP
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### COMPILES AND HOT-RELOADS FOR DEVELOPMENT
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### COMPILES AND MINIFIES FOR PRODUCTION
 ```
 npm run build
 ```
 
-### Run your unit tests
+### RUN YOUR UNIT TESTS
 ```
 npm run test:unit
 ```
 
-### Lints and fixes files
+### LINTS AND FIXES FILES
 ```
 npm run lint
 ```
 
-## License
+### LICENSE
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2020 - present, Dark Mode
+Copyright (c) 2020 - present, DarkMode
