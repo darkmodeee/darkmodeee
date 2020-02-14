@@ -9,5 +9,8 @@
 <script>
 export default {
   name: 'About',
+  mounted() {
+    console.log(12);
+  },
 };
 </script>
